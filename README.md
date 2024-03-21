@@ -36,6 +36,8 @@ Technology has become deeply integrated into the investment process, impacting e
 
 The rise of electronic trading, driven by technological advances and regulatory changes, has significantly altered how markets operate. Asset managers now leverage enormous datasets generated during the trading process to analyze their trades, aiming to minimize costs and optimize execution for their clients. BlackRock's Systematic Active Equity team demonstrates this integration, combining human insights with sophisticated technology.  Their investment models undergo rigorous development and testing, with ongoing human oversight and the flexibility to override decisions when market conditions warrant.
 
+![Data](https://github.com/Meeghell/FinTech_Module1_Challenge/blob/main/Images/Data.png)
+
 ## Recommendations
 
 BlackRock's position as a leader in asset management, coupled with its ongoing investments in technological innovation, makes it a compelling choice for investors. Its stock (BLK) represents a long-term opportunity to benefit from the company's proven resilience and its potential to capitalize on emerging industry trends.  Furthermore, BlackRock's expansive range of ETFs (Exchange-Traded Funds) provides an accessible and cost-effective way for investors to gain diversified exposure across various markets and sectors.
