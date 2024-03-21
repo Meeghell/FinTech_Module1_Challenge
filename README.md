@@ -25,6 +25,9 @@ Historically, investing was a privilege reserved for the wealthy who could affor
 
 Asset managers have a fundamental duty to provide cost-effective services to their clients. Technology has always been a key tool in streamlining processes and managing the enormous amounts of data involved in financial operations. Now, cutting-edge technologies like AI and ML are revolutionizing how asset managers handle the critical task of ensuring data quality. These sophisticated tools are trained to detect anomalies in the vast datasets that asset managers work with. By automatically detecting errors and anomalies in large datasets, these technologies can flag issues like incorrect pricing or outdated data. This allows asset managers to proactively address potential problems, minimizing errors and their associated costs. AI and ML also automate time-consuming data analysis tasks, like those used in BlackRock's daily risk reports. Overall, these advanced tools streamline operations, improve accuracy, and ultimately benefit investors through reduced costs and better outcomes.
 
+![Alladin](https://github.com/Meeghell/FinTech_Module1_Challenge/blob/main/Images/Screenshot%202024-03-20%20134815.png) 
+
+
 #### Investment Process
 
 Technology has become deeply integrated into the investment process, impacting everything from how asset managers research potential investments to the way they execute trades. AI and ML are used to gather and analyze vast amounts of data, including traditional financial information and alternative sources like satellite imagery or social media activity. This data-driven approach helps identify patterns and potentially uncover lucrative investment opportunities. Technology also plays a key role in strategies like smart beta investing, where portfolios are tailored to specific criteria, and in the creation of index-tracking ETFs.
@@ -48,3 +51,4 @@ https://www.blackrock.com/aladdin/resources/faqs
 https://www.economist.com/leaders/2013/12/05/the-rise-of-blackrock
 
 https://www.blackrock.com/corporate/about-us/blackrock-history
+
